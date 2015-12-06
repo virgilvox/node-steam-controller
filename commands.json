@@ -1,0 +1,47 @@
+{
+  "button": {
+    "A": false,
+    "B": false,
+    "X": false,
+    "Y": false,
+    "LB": false,
+    "RB": false
+  },
+  "pad": {
+    "value": "idle",
+    "touched": false
+  },
+  "mouse": {
+    "a": 0,
+    "b": 0,
+    "c": 0,
+    "d": 0,
+    "touched": false
+  },
+  "center": {
+    "L": false,
+    "R": false,
+    "STEAM": false
+  },
+  "joystick": {
+    "xdir": 0,
+    "x": 0,
+    "ydir": 0,
+    "y": 0
+  },
+  "bottom": {
+    "left": false,
+    "right": false
+  },
+  "thumbstick": {
+    "pressed": false,
+    "xdir": 0,
+    "x": 0,
+    "ydir": 0,
+    "y": 0
+  },
+  "trigger":{
+    "left": 0,
+    "right": 0
+  }
+}
