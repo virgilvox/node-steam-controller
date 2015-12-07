@@ -1,12 +1,16 @@
 {
   "name": "steam-controller",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "virgilvox <moheeb@octoblu.com> (http://app.octoblu.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/virgilvox/node-steam-controller.git"
+  },
   "license": "ISC",
   "dependencies": {
     "node-hid": "^0.5.1"
