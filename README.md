@@ -4,7 +4,7 @@
 
   The module lets you interact with the Steam Controller from valve. Its been tested on OSX so far and works great - it should be compatible with Windows and Linux as well.
 
-##Usage
+## Usage
 
 ```
 npm install steam-controller
