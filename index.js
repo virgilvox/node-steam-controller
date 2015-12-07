@@ -150,6 +150,11 @@ steamController.prototype.read = function(callback){
     current.joystick.ydir = data[18];
     current.joystick.y = data[19];
 
+    current.thumbstick.xdir = data[16];
+    current.thumbstick.x = data[17];
+    current.thumbstick.ydir = data[18];
+    current.thumbstick.y = data[19];
+
     // mouse
     current.mouse.a = data[20];
     current.mouse.b = data[21];
