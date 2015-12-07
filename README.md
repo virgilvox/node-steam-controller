@@ -6,6 +6,10 @@
 
 ##Usage
 
+```
+npm install steam-controller
+```
+
 ```js
 var steam = require('steam-controller');
 
